@@ -4,7 +4,9 @@
 
 ** step 1
 
-download the mpdf package using this link    :  http://www.mpdf1.com/mpdf/index.php?page=Download
+* download the mpdf package using this link    :  http://www.mpdf1.com/mpdf/index.php?page=Download
+* then go to vendor folder on project root
+* then extarct there
 
 ** step 2
 * Go to your controller or view where you need to generate the pdf
